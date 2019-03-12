@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Complex_Counter</string>
+    <string name="title_activity_add_new">AddNew</string>
+</resources>
